@@ -1,6 +1,6 @@
 {
-    "name": "Elilee/yii2-swoole",
-    "description": "一个专注于yii2的swoole",
+    "name": "elilee/yii2-swoole",
+    "description": "一个专注yii2的swoole",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","swoole"],
     "license": "MIT",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "lee\\swoole\\": ""
+            "elilee\\swoole\\": ""
         }
     }
 }

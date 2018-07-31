@@ -1,6 +1,6 @@
 <?php
 
-namespace Elilee\swoole;
+namespace elilee\swoole;
 
 /**
  * This is just an example.
